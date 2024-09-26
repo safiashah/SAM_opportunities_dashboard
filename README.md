@@ -2,8 +2,8 @@
 This repository holds projects dealing with data exploration and visualization done within UMBC MPS Data 601 course
 
 ## Education Attainment and Enrollment 
-File name: SP23601_project2.ipynb
-Source name: 
+File name: SP23601_project2.ipynb  
+Source name: edattainxtry_5plus_new.xlsx  
 DATA 601 Project  
 Jupyter notebook analyzes public global education attainment data. Data includes disaggregation like gender, socioeconomic class, and urban/rural location  
 The EDA focus on 4 South Asain countries - Pakistan, Nepal, Bangladesh, and India  
